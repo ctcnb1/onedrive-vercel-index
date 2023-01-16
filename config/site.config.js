@@ -54,6 +54,14 @@ module.exports = {
     {
       name: 'GitHub',
       link: 'https://github.com/ctcnb1',
+    },
+    {
+      name: 'qq',
+      link: 'tencent://message/?uin=3270141156',
+    },
+    {
+      name: 'weixin',
+      link: 'http://ctcnb.cn/wp-content/uploads/2023/01/1673599624429.jpg',
     }
   ],
 
